@@ -26,8 +26,8 @@ Este proyecto es una aplicación de escritorio en Python con interfaz gráfica (
 - Python 3.7+
 - Bibliotecas:
 
-1. 📂 Cómo usar
-  Clona el repositorio:
+ 📂 Cómo usar:
+1. Clona el repositorio:
   git clone https://github.com/tuusuario/visualizador-aco.git
   cd visualizador-aco
 
@@ -46,12 +46,12 @@ Este proyecto es una aplicación de escritorio en Python con interfaz gráfica (
 
 
 ⚙️ Parámetros
-  Hormigas: cantidad de hormigas simuladas por iteración.
-  Iteraciones: número máximo de ciclos de optimización.
-  Alpha (α): influencia de las feromonas.
-  Beta (β): influencia de la heurística (distancia).
-  Rho (ρ): tasa de evaporación de feromonas.
-  Q: cantidad de feromonas depositadas por hormiga.
+- Hormigas: cantidad de hormigas simuladas por iteración.
+- Iteraciones: número máximo de ciclos de optimización.
+- Alpha (α): influencia de las feromonas.
+- Beta (β): influencia de la heurística (distancia).
+-  Rho (ρ): tasa de evaporación de feromonas.
+-  Q: cantidad de feromonas depositadas por hormiga.
 
 📚 Conceptos clave
-  El algoritmo ACO (Ant Colony Optimization) es una técnica de metaheurística inspirada en el comportamiento de las hormigas reales para encontrar caminos óptimos en grafos. Este proyecto muestra su aplicación al clásico problema del viajante, donde se busca el recorrido más corto que pase por todas las ciudades una sola vez.
+  - El algoritmo ACO (Ant Colony Optimization) es una técnica de metaheurística inspirada en el comportamiento de las hormigas reales para encontrar caminos óptimos en grafos. Este proyecto muestra su aplicación al clásico problema del viajante, donde se busca el recorrido más corto que pase por todas las ciudades una sola vez.
